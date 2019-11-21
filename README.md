@@ -1,14 +1,13 @@
 # fdf
-```minilibx``` is required
-
 Fdf is a program that creates wireframe representation of various connected points via segments. <b>(Only macOS is supported).</b>
 
 # Compiling
+```minilibx``` is required
 
 Run ```make```
 
 # Usage
-Run ./fdf [file]
+Run ```./fdf [file]```
 
 # Example
 ```
